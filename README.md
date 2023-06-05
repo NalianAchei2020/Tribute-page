@@ -112,7 +112,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/NalianAchei2020/Portfolio/issues).
+Feel free to check the [issues page](https://github.com/NalianAchei2020/Tribute-page/issues).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ⭐️ Show your support <a name="support"></a>
@@ -127,5 +127,5 @@ I would like to thank the microverse community for their lessons
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/NalianAchei2020/Portfolio/blob/portfolio-feature/LICENSE) licensed
+This project is [MIT](https://github.com/NalianAchei2020/Tribute-page/blob/main/LICENSE) licensed
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
