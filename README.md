@@ -50,7 +50,7 @@ This project has a webpage that display the history of all country worldcup winn
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link](https://nalianachei2020.github.io/Portfolio/)
+- [Live Demo Link](https://github.com/NalianAchei2020/Tribute-page)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -69,8 +69,7 @@ Clone this repository to your desired folder:
 sh
 - Create a folder
 - cd in to folder you just created
-- Type git clone https://github.com/NalianAchei2020/Portfolio
-
+- Type git clone ``` https://github.com/NalianAchei2020/Tribute-page ```
 ### Install
 
 Install this project with:
