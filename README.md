@@ -50,7 +50,7 @@ This project has a webpage that display the history of all country worldcup winn
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link](https://github.com/NalianAchei2020/Tribute-page)
+- [Live Demo Link](https://nalianachei2020.github.io/Tribute-page/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -84,8 +84,8 @@ To run the project, start the html file on live server
 ### Run tests
 
 On your terminal, cd to the current folder and run 
-- **npx hint** to test  the html code
-- npx stylelint "**/*.{css,scss}" to test the css code
+- ``` npx hint ``` to test  the html code
+- ``` npx stylelint "**/*.{css,scss}" ``` to test the css code
 
 ### Deployment
 
