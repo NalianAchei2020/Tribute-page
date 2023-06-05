@@ -122,7 +122,7 @@ If you like this project, please do well to give a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the microverse community for their lessons
+I would like to thank [Ndonyi Maurice Djam](https://github.com/citec-47) for sharing his code with me
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
